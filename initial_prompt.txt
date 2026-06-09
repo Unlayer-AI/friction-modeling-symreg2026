@@ -1,0 +1,1 @@
+read AGENTS.md and run the optimization as instructed for 20 iterations

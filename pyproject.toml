@@ -1,0 +1,11 @@
+[project]
+name = "agentic-symbolicregression-tiremodel"
+version = "0.1.0"
+description = "Agentic symbolic regression for tire modeling, submitted to symreg workshop 2026"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "scipy>=1.17.1",
+    "sympy>=1.14.0",
+]
