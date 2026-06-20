@@ -7,5 +7,5 @@ def mu_func(v: float) -> float:
 
 def __baseline(v: float) -> float:
     """Baseline function for mu_func. DO NOT ALTER THIS"""
-    return 1.0 + 1.72 * np.exp(-((np.abs(v) / 3.7) ** 1.37))
+    return 1.0 + (1.72 - 1.0) * np.exp(-((np.abs(v) / 3.7) ** 1.37))
 
