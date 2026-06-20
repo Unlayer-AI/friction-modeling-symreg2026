@@ -1,6 +1,7 @@
 # Tire Model Optimization via LLM Agents
 
-Code of the paper **"Genetic and agentic symbolic regression of distributed rate-and-state friction models"** by Luigi Romano (Linköping University), Alessandro Lucantonio (Aarhus University), and Marco Virgolin (Unlayer AI), published at the [Workshop on Symbolic Regression and Equation Discovery](https://heal.heuristiclab.com/research/symbolic-regression-workshop).
+LLM agent code of the paper **"Genetic and agentic symbolic regression of distributed rate-and-state friction models"** by Luigi Romano (Linköping University), Alessandro Lucantonio (Aarhus University), and Marco Virgolin (Unlayer AI), published at the [Workshop on Symbolic Regression and Equation Discovery](https://heal.heuristiclab.com/research/symbolic-regression-workshop). The GP code of the paper is available at [https://github.com/cpml-au/SR-Tyre](https://github.com/cpml-au/SR-Tyre)
+
 
 > 👀 Note: this paper inspired the creation of an agent SKILL for model discovery, see [automodel](https://github.com/Unlayer-AI/automodel)
 
